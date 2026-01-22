@@ -26,8 +26,7 @@ An intentionally vulnerable web application created for academic vulnerability a
 
 ## Tools Used
 - Nmap  
-- Nikto  
-- Nessus  
+- Nikto   
 
 ## Assessment Scope
 - Port and service discovery  
